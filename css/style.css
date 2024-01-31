@@ -1,0 +1,14 @@
+body {
+   background-color: #eaeaea;
+   display: grid;
+   place-content: center;
+   min-height: 100vh;
+   margin: 0;
+   padding: 0;
+   font-family: Helvetica, sans-serif;
+}
+p,
+input {
+   display: inline;
+   font-size: 1.5rem;
+}
